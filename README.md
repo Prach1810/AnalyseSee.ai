@@ -9,6 +9,7 @@ generally failed to achieve its main objective.
 
 ## Tech Stack/Files included:
 - Python
+- Jupyter Notebook
 - Machine Learning
 - UI Design with AdobeXd
 - Powerpoint presentation
