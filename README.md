@@ -9,6 +9,8 @@ tweets and number of retweets and provide positive, negative and neutral scores 
 The study analyses impacts on the GDP of India, employement rate, and the overall economy. The study shows that the demonetization movement had more short-term impacts than long-term aand it 
 generally failed to achieve its main objective.
 
+We wish to carry this project forward and therefore have planned the functionalities of our future webapp based on ML model and developed our ideas as UI designs as well:)
+
 
 ## Tech Stack/Files included:
 - Python
